@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GIT HUB]()
-- Live Site URL: [SITE]()
+- Solution URL: [GIT HUB](https://github.com/lucasilvas2/order-summary-component)
+- Live Site URL: [SITE](https://lucasilvas2.github.io/order-summary-component/)
 
 ## My process
 
@@ -43,5 +43,4 @@ Users should be able to:
 
 - Website - [GIT HUB](https://github.com/lucasilvas2)
 - Frontend Mentor - [@lucasilvas2](https://www.frontendmentor.io/profile/lucasilvas2)
-
 
